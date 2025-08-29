@@ -1,2 +1,4 @@
 data:
   raw: data/
+  fetched: data/fetched/
+  processed: data/processed/
